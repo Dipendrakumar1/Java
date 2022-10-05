@@ -1,0 +1,9 @@
+Methods to access package from another package:
+1)import package.*;
+==> In this package all the classes and interfaces of this package will
+be accessible but not subclasses.
+The import keyword is used to make the classes and interface of another
+package accessible to the current packages. 
+2)import package.classname;
+
+3)fully qualified name.
