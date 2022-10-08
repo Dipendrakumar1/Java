@@ -8,7 +8,7 @@ public class innerClass {
 
     void output()
     {
-        
+
         inner obj=new inner();
         obj.display();
     }
